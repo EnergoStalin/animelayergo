@@ -3,8 +3,8 @@ package test
 import (
 	"testing"
 
-	"github.com/EnergoStalin/torrent-feed/pkg/auth"
-	"github.com/EnergoStalin/torrent-feed/pkg/client"
+	"github.com/EnergoStalin/animelayergo/pkg/auth"
+	"github.com/EnergoStalin/animelayergo/pkg/client"
 )
 
 func TestSearch(t *testing.T) {

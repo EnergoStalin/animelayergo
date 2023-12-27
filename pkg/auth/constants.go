@@ -1,6 +1,6 @@
 package auth
 
-import lib "github.com/EnergoStalin/torrent-feed/pkg"
+import lib "github.com/EnergoStalin/animelayergo/pkg"
 
 const authUrl = lib.BaseUrl + "/auth/login/"
 

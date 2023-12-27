@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/EnergoStalin/torrent-feed/pkg/auth"
+	"github.com/EnergoStalin/animelayergo/pkg/auth"
 )
 
 func TestLogin(t *testing.T) {

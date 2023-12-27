@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/EnergoStalin/torrent-feed/pkg/utils"
+	"github.com/EnergoStalin/animelayergo/pkg/utils"
 )
 
 func findLayerIdCookie(cookies []*http.Cookie) *http.Cookie {

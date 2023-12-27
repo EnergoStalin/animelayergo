@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/EnergoStalin/torrent-feed/pkg/auth"
-	"github.com/EnergoStalin/torrent-feed/pkg/parser"
+	"github.com/EnergoStalin/animelayergo/pkg/auth"
+	"github.com/EnergoStalin/animelayergo/pkg/parser"
 	"github.com/anacrolix/torrent/metainfo"
 )
 

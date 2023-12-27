@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	lib "github.com/EnergoStalin/torrent-feed/pkg"
+	lib "github.com/EnergoStalin/animelayergo/pkg"
 	"github.com/PuerkitoBio/goquery"
 )
 

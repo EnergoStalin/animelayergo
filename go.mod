@@ -1,4 +1,4 @@
-module github.com/EnergoStalin/torrent-feed
+module github.com/EnergoStalin/animelayergo
 
 go 1.21.5
 
